@@ -1,3 +1,0 @@
-datasciencecoursera
-===================
-Repo for class
